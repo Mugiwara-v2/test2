@@ -29,4 +29,4 @@ function getCookie(cname) {
     }
   }
   return "";
-}setTimeout("Int64",75000);
+}

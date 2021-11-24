@@ -15,7 +15,7 @@ function done(){
 			    }else{
 				  document.getElementById('load').innerHTML='<tr style="color:white;">'+	
 					'<td align="center" colspan="5" >'+
-					'<a href="#" id="Silver755x80" class="button" onclick="toggle_payload(\'Silver755x80\');return false" style="width:29%">Silver755x80</a>&nbsp;'+
+					'<a href="#" id="goldhen20b" class="button" onclick="toggle_payload(\'Silver755x80\');return false" style="width:29%">goldhen2.0b</a>&nbsp;'+
 					'<a href="#" id="Silver755" class="button" onclick="toggle_payload(\'Silver755\');return false" style="width:29%">Platinum755x82 v1.1b</a>&nbsp;'+
 					'<a href="#" id="Silver755x82-1.2" class="button" onclick="toggle_payload(\'Silver755x82-1.2\');return false" style="width:29%">Platinum755x82 v1.1a spoofed</a>&nbsp;'+
           '<a href="#" id="henSP8" class="button" onclick="toggle_payload(\'henSP8\');return false" style="width:29%">SilverMiraSP8</a>&nbsp;'+

@@ -8,9 +8,9 @@ function toggle_payload(pld){
 	}else if(pld == "Silver755x82-1.2"){
 		document.getElementById("progress").innerHTML="Loading Platinum755x82-v1.1a-Spoofed.. Please wait..";
 		preloadScripts(['PAYLOADS/Silver755x82-1.2.js','jsloader.js']);	
-	}else if(pld == "Silver755x80"){
-		document.getElementById("progress").innerHTML="Loading Silver755x80.. Please wait..";
-		preloadScripts(['PAYLOADS/Silver755x80.js','jsloader.js']);		
+	}else if(pld == "goldhen20b"){
+		document.getElementById("progress").innerHTML="Loading goldhen-2.0b .. Please wait..";
+		preloadScripts(['PAYLOADS/goldhen20b_755.js','jsloader.js']);		
 	}else if(pld == "henSP7"){
 		document.getElementById("progress").innerHTML="Loading henSP7.. Please wait..";
 		preloadScripts(['PAYLOADS/henSP7.js','jsloader.js']);
